@@ -32,6 +32,8 @@ The **`width=device-width`** part sets the width of the page to follow the scree
 
 The **`initial-scale=1.0`** part sets the initial zoom level when the page is first loaded by the browser.
 
+![화면조절](https://user-images.githubusercontent.com/51290739/116087644-08778a80-a6dc-11eb-8767-f502f6696830.gif)
+
 ---
 
 [Part 1 : Creative Landing Page Design using Html CSS & Javascript](https://www.youtube.com/watch?v=s_z5laE4KTw)
