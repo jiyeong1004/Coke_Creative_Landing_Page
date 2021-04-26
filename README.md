@@ -36,4 +36,6 @@ The **`initial-scale=1.0`** part sets the initial zoom level when the page is fi
 
 [Part 1 : Creative Landing Page Design using Html CSS & Javascript](https://www.youtube.com/watch?v=s_z5laE4KTw)
 
+![part1](https://user-images.githubusercontent.com/51290739/116085684-06acc780-a6da-11eb-84f0-1f3571b68b5c.gif)
+
 [Part 2 : How to Make Responsive Website](https://www.youtube.com/watch?v=hlYbsAnn3LM&t=0s)
