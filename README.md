@@ -2,6 +2,8 @@
 
 ## YouTube : [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
+### [My Tistory Blog]()
+
 ### < image source >
 
 Image source : https://www.pepsi.com
